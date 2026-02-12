@@ -1,0 +1,3 @@
+# IoCs for Notepad++ Attacks
+This repository provides a curated collection of Indicators of Compromise (IOCs) related to cyberattacks in which Notepad++ was misused by threat actors as part of the infection chain to distribute or execute malicious software.
+The listed IOCs are based on observed incidents and are intended to support security teams in identifying related malicious activity, strengthening detection capabilities, and improving incident response.
